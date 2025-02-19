@@ -33,3 +33,6 @@ This is a simple AES encryption and decryption tool written in Java. It allows u
 Distributed under the MIT License.
 
 Maintained by: Kimani Griffin
+
+## MISC:
+* ChatGPT was used with help in LICENSE.md documentation
